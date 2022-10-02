@@ -8,9 +8,11 @@
 
 This contains some projects that make up part of my portfolio. Enjoy!
 
-## [Investigating Netflix Movies](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
+## [Investigating Netflix Movies](https://github.com/RdEl00/Investigating-Netflix-Movies)
 
-This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
+*Python | Pandas | matplotlib | Jupyter*
+
+Given the large number of movies and series available on the Netflix platform, It is a perfect opportunity to flex my data manipulation skills and dive into the entertainment industry.
 
 ## [Real Time Insights From Social Media Data](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
 
@@ -32,14 +34,6 @@ This is a personal project I've been working on. The aim was to build a data pip
 
 This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
 
-## [Dphi Bootcamps](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
-
-This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
-
-## [Applied Data Science Module Unit I](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
-
-This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
-
 ## [A/B Testing for ShoeFly.com](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
 
 This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
@@ -48,10 +42,15 @@ This is a personal project I've been working on. The aim was to build a data pip
 
 This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
 
+<!--
+## [Dphi Bootcamps](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
 
+This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
 
+## [Applied Data Science Module Unit I](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
 
-
+This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
+-->
 
 <br>
 ---
