@@ -46,10 +46,12 @@ This project aims to build a funnel, which is a description of how many people c
 
 In this project, I conducted an A/B testing (split testing) experiment to analyze ShoeFly.com's campaigns/channels in order to  determine which performs better.
 
-## [The Shellter](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
+## [The Shellter](https://github.com/RdEl00/Web-Scraping-Projects)
 
-This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
+*Python | Pandas | requests | BeautifulSoup*
 
+
+This project aims to scrap turtle data from the [Shellter website](https://content.codecademy.com/courses/beautifulsoup/shellter.html)
 
 <!--sql
 ## [What And Where Are The World's Oldest Businesses](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
