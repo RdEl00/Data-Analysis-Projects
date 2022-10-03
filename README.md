@@ -40,11 +40,11 @@ This project aims to build a funnel, which is a description of how many people c
   - A user clicks “checkout”
   - A user actually purchases a t-shirt
 
-## [A/B Testing for ShoeFly.com](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
+## [A/B Testing for ShoeFly.com](https://github.com/RdEl00/A-B-Testing-ShoeFly.com)
 
-This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
+*Python | Pandas*
 
-
+In this project, I conducted an A/B testing (split testing) experiment to analyze ShoeFly.com's campaigns/channels in order to  determine which performs better.
 
 ## [The Shellter](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
 
