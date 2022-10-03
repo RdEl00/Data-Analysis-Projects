@@ -7,8 +7,7 @@
 
 This repository contains some projects that make up part of my portfolio. Enjoy!
 
-<a href="https://github.com/RdEl00/Investigating-Netflix-Movies" target="_blank"><h2>Investigating Netflix Movies</h2></a>
-
+## [Investigating Netflix Movies](https://github.com/RdEl00/Investigating-Netflix-Movies)
 
 *Python | Pandas | matplotlib | Jupyter*
 
