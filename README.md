@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/Z6Qh5TrJM4MHSf1vyX/giphy.gif">
 </p>
 
- `(To be changed)`
 
 This repository contains some projects that make up part of my portfolio. Enjoy!
 
