@@ -6,7 +6,7 @@
 
  `(To be changed)`
 
-This contains some projects that make up part of my portfolio. Enjoy!
+This repository contains some projects that make up part of my portfolio. Enjoy!
 
 ## [Investigating Netflix Movies](https://github.com/RdEl00/Investigating-Netflix-Movies)
 
@@ -22,8 +22,30 @@ Twitter has this huge influence on the world because of the type of its users Th
 
 In this Project, I used pre-downloaded datasets to understand the nuts and bolts of Twitter Data. In particular, I did a throughout analysis of a hot-trend.
 
-## [What And Where Are The World's Oldest Businesses](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
+## [Scala GitHub History](https://github.com/RdEl00/Scala-GitHub-History)
 
+*Python | Pandas | matplotlib | Jupyter*
+
+With almost 30k commits and a history spanning over ten years, Scala is a mature programming language. It is a general-purpose programming language that has recently become another prominent language for data scientists.
+
+I went through reading in, cleaning up, and visualizing the real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). In order to find out who has had the most influence on its development and who are the experts.
+
+## [A/B Testing for ShoeFly.com](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
+
+This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
+
+## [Page Visits Funnel](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
+
+This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
+
+## [The Shellter](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
+
+This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
+
+
+<!--sql
+## [What And Where Are The World's Oldest Businesses](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
+##py and sql versions
 This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
 
 ## [Analyze International Debt Statistics](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
@@ -33,18 +55,8 @@ This is a personal project I've been working on. The aim was to build a data pip
 ## [Golden Age Of Video Games](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
 
 This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
+-->
 
-## [The Shellter](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
-
-This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
-
-## [A/B Testing for ShoeFly.com](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
-
-This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
-
-## [Page Visits Funnel](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
-
-This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
 
 <!--
 ## [Dphi Bootcamps](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
@@ -57,11 +69,8 @@ This is a personal project I've been working on. The aim was to build a data pip
 -->
 
 <br>
----
-## [Reddit API Pipeline](https://github.com/ABZ-Aaron/Reddit-API-Pipeline)
-
+<!--
+[Reddit API Pipeline](https://github.com/ABZ-Aaron/Reddit-API-Pipeline)
 *Python | SQL | Docker | Airflow | AWS | Google Data Studio | DBT | Terraform*
-
 This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
-
-
+-->
