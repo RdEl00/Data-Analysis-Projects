@@ -32,7 +32,7 @@ I went through reading in, cleaning up, and visualizing the real world project r
 
 ## [Page Visits Funnel](https://github.com/RdEl00/Page-Visits-Funnel)
 
-*Python | Pandas *
+*Python | Pandas*
 
 This project aims to build a funnel, which is a description of how many people continue to the next step of a multi-step process. The funnel is going to describe the following process:
 
