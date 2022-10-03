@@ -30,13 +30,22 @@ With almost 30k commits and a history spanning over ten years, Scala is a mature
 
 I went through reading in, cleaning up, and visualizing the real world project repository of Scala that spans data from a version control system (Git) as well as a project hosting site (GitHub). In order to find out who has had the most influence on its development and who are the experts.
 
+## [Page Visits Funnel](https://github.com/RdEl00/Page-Visits-Funnel)
+
+*Python | Pandas *
+
+This project aims to build a funnel, which is a description of how many people continue to the next step of a multi-step process. The funnel is going to describe the following process:
+
+  - A user visits CoolTShirts.com
+  - A user adds a t-shirt to their cart
+  - A user clicks “checkout”
+  - A user actually purchases a t-shirt
+
 ## [A/B Testing for ShoeFly.com](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
 
 This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
 
-## [Page Visits Funnel](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
 
-This is a personal project I've been working on. The aim was to build a data pipeline, and develop basic skills across a range of technologies.
 
 ## [The Shellter](https://github.com/ABZ-Aaron/CoinCap-API-Pipeline)
 
